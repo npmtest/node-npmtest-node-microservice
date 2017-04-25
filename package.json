@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [node-microservice (v0.6.0)](https://github.com/richardzyx/node-microservice#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-microservice.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-microservice) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-microservice.svg)](https://travis-ci.org/npmtest/node-npmtest-node-microservice)",
+    "description": "#### basic test coverage for  [node-microservice (v0.6.0)](https://github.com/richardzyx/node-microservice#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-microservice.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-microservice) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-microservice.svg)](https://travis-ci.org/npmtest/node-npmtest-node-microservice)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "node-microservice": "*",

@@ -1,6 +1,6 @@
 # npmtest-node-microservice
 
-#### test coverage for  [node-microservice (v0.6.0)](https://github.com/richardzyx/node-microservice#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-microservice.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-microservice) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-microservice.svg)](https://travis-ci.org/npmtest/node-npmtest-node-microservice)
+#### basic test coverage for  [node-microservice (v0.6.0)](https://github.com/richardzyx/node-microservice#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-microservice.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-microservice) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-microservice.svg)](https://travis-ci.org/npmtest/node-npmtest-node-microservice)
 
 #### Clean, Direct, Easy to Scale solution to Node Microservice Framework
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-microservice/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-microservice/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-microservice/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-microservice/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-microservice/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-microservice/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-microservice/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-microservice/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-microservice/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-microservice/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-microservice/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-microservice/build/coverage.html/index.html)
 
@@ -78,7 +78,8 @@
         "start": "node index.js"
     },
     "url": "https://github.com/richardzyx/node-microservice",
-    "version": "0.6.0"
+    "version": "0.6.0",
+    "bin": {}
 }
 ```
 
